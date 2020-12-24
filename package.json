@@ -1,0 +1,29 @@
+{
+  "name": "command-tool",
+  "version": "1.0.0",
+  "description": "A service that helps we can remember what's the commands",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./index.js",
+    "ui": "browser-sync start --config bs-config.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dalmatele/command-tool.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dalmatele/command-tool/issues"
+  },
+  "homepage": "https://github.com/dalmatele/command-tool#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.13",
+    "nodemon": "^2.0.6"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "pug": "^3.0.0"
+  }
+}
