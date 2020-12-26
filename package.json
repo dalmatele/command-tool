@@ -24,6 +24,10 @@
   },
   "dependencies": {
     "express": "^4.17.1",
-    "pug": "^3.0.0"
+    "include-all": "^4.0.3",
+    "lodash": "^4.17.20",
+    "mariadb": "^2.5.2",
+    "pug": "^3.0.0",
+    "sequelize": "^6.3.5"
   }
 }

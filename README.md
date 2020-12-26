@@ -5,3 +5,10 @@ A service that helps we can remember what's the commands
 * Find command
 * Command description
 * Suggest command
+
+
+#Plugin/Tech
+
+* `sequelize`
+* `express`
+*  `pug`
